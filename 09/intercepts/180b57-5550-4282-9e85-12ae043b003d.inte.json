@@ -16,9 +16,17 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 2,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "linear",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "outlier_excluded": null,
+        "reviewed": true,
+        "user_excluded": null,
         "value": 0.09147038205516614
     },
     "Ar38": {
@@ -27,9 +35,17 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 2,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "linear",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "outlier_excluded": null,
+        "reviewed": true,
+        "user_excluded": null,
         "value": 0.7627111176447621
     },
     "Ar39": {
@@ -38,9 +54,17 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 2,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "Parabolic",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "outlier_excluded": null,
+        "reviewed": true,
+        "user_excluded": null,
         "value": 38.45853197119071
     },
     "Ar40": {
@@ -49,9 +73,17 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 2,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "Parabolic",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "outlier_excluded": null,
+        "reviewed": true,
+        "user_excluded": null,
         "value": 271.32968578774626
     }
 }
