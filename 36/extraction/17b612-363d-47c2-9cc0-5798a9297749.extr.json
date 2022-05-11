@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 60.0,
+    "commit": "b523cd6174891e5769e572b14f8438a03a32c3eb",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 0.8,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "37-hole",
+    "load_name": "D0114",
+    "measured_response": "CvjETgAAAABAH0E9AAD6RKn1AkAAAPpEEnOBQAAA+kRKjcFAAAD6RNLCAEEAAPpEWs8gQQAA+kR32EBBAAD6RELzYEEAAPpE/oSAQQAA+kQnkJBBAAD6RB+RoEEAAPpEBpKwQQAA+kQJkMBBAAD6RLCb0EEAAPpE/5/gQQAA+kQzqfBBAAD6RDZaAEIAAPpEx2AIQgAA+kTbXxBCAAD6RCZoGEIAAPpE/G0gQgAA+kS3cyhCAAD6RMxyMEIAAPpE5nM4QgAA+kRGeEBCAAD6REp+SEIAAPpE5oFQQgAA+kRGhVhCAAD6RHOLYEIAAPpElYpoQgAA+kSpiXBCAAD6RKiKeEIAAPpEhkiAQgAA+kRGS4RCAAD6RHFLiEIAAPpEc06MQgAA+kSdTpBCAAD6RBZTlEIAAPpEElOYQgAA+kSBVZxCAAD6RAhVoEIAAPpEilSkQgAA+kQOVKhCAAD6RMV1rEIAAPpE6XWwQgAA+kSPebRCAAD6RK57uEIAAPpExn28QgAA+kTEgMBCAAD6RBmBxEIAAPpE",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 9,
+            "x": -14.4018,
+            "y": 4.8006,
+            "z": 15.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "CvjETgAAAABAH0E90QMIQqn1AkAAAAAAEnOBQAAAAABKjcFAAAAAANLCAEEAAAAAWs8gQQAAAAB32EBBAAAAAELzYEEAAAAA/oSAQQAAAAAnkJBBAAAAAB+RoEEAAAAABpKwQQAAAAAJkMBBAAAAALCb0EEAAAAA/5/gQQAAAAAzqfBBAAAAADZaAEJoP5BBx2AIQmg/kEHbXxBCaD+QQSZoGEJoP5BB/G0gQmg/kEG3cyhCaD+QQcxyMEJoP5BB5nM4Qmg/kEFGeEBCaD+QQUp+SEJoP5BB5oFQQmg/kEFGhVhCaD+QQXOLYEJoP5BBlYpoQmg/kEGpiXBCaD+QQaiKeEJoP5BBhkiAQmg/kEFGS4RCaD+QQXFLiEJoP5BBc06MQmg/kEGdTpBCaD+QQRZTlEJoP5BBElOYQmg/kEGBVZxCaD+QQQhVoEJoP5BBilSkQmg/kEEOVKhCaD+QQcV1rEJoP5BB6XWwQmg/kEGPebRCaD+QQa57uEJoP5BBxn28Qmg/kEHEgMBCaD+QQRmBxEJoP5BB",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0114/70106-01A-001.avi"
+    ],
+    "weight": 10.07
+}
