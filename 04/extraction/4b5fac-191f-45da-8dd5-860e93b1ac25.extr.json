@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 60.0,
+    "commit": "9cb926a6e345cdf2916d721b9e60f61cb8b628b4",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 0.8,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "37-hole",
+    "load_name": "D0125",
+    "measured_response": "8YLFTgAAAABAvWA+AAD6RG9DDkAAAPpEWhqHQAAA+kSkEsdAAAD6REKRA0EAAPpEm5UjQQAA+kTakUNBAAD6RGmOY0EAAPpEVsWBQQAA+kRaw5FBAAD6RGvIoUEAAPpEUcqyQQAA+kSt0sJBAAD6ROXX0kEAAPpE5+niQQAA+kQf6/JBAAD6RJx1AUIAAPpEpnQJQgAA+kTQdBFCAAD6ROVzGUIAAPpEFnMhQgAA+kTceClCAAD6RB1+MUIAAPpE2II5QgAA+kSxhUFCAAD6RN6OSUIAAPpE941RQgAA+kT/jFlCAAD6RAqMYUIAAPpEypJpQgAA+kSRlnFCAAD6RI6beUIAAPpEitCAQgAA+kQM0IRCAAD6RETSiEIAAPpEWdSMQgAA+kTp2JBCAAD6RG/alEIAAPpE8NmYQgAA+kTh3JxCAAD6RI7goEIAAPpEz+CkQgAA+kR84KhCAAD6RErhrEIAAPpEcuGwQgAA+kQQ4rRCAAD6RA==",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 15,
+            "x": 14.4018,
+            "y": 4.8006,
+            "z": 14.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "8YLFTgAAAABAvWA+0QMIQm9DDkAAAAAAWhqHQAAAAACkEsdAAAAAAEKRA0EAAAAAm5UjQQAAAADakUNBjVWIQWmOY0FYBIpBVsWBQcqwi0Faw5FB81qNQWvIoUHiAo9BUcqyQWg/kEGt0sJBaD+QQeXX0kFoP5BB5+niQWg/kEEf6/JBaD+QQZx1AUJoP5BBpnQJQmg/kEHQdBFCaD+QQeVzGUJoP5BBFnMhQmg/kEHceClCaD+QQR1+MUJoP5BB2II5Qmg/kEGxhUFCaD+QQd6OSUJoP5BB941RQmg/kEH/jFlCaD+QQQqMYUJoP5BBypJpQmg/kEGRlnFCaD+QQY6beUJoP5BBitCAQmg/kEEM0IRCaD+QQUTSiEJoP5BBWdSMQmg/kEHp2JBCaD+QQW/alEJoP5BB8NmYQmg/kEHh3JxCaD+QQY7goEJoP5BBz+CkQmg/kEF84KhCaD+QQUrhrEJoP5BBcuGwQmg/kEEQ4rRCaD+QQQ==",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0125/70106-02A-001.avi"
+    ],
+    "weight": 0
+}
