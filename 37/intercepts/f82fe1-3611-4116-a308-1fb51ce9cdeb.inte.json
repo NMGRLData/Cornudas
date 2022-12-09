@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00017501630618227382,
+        "error": 0.00032026919985185743,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,7 +9,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 339,
         "include_baseline_error": false,
         "n": 340,
@@ -18,10 +18,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.010445535531922038
+        "value": 0.010494840864508002
     },
     "Ar37": {
-        "error": 0.016937436559959884,
+        "error": 0.01693743655995988,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -39,7 +39,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 3.0245950441167864
+        "value": 3.024595044116784
     },
     "Ar38": {
         "error": 0.005559130472540921,
@@ -61,7 +61,7 @@
         "value": 0.1020669087633595
     },
     "Ar39": {
-        "error": 0.008280584223722113,
+        "error": 0.015123085083893817,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -70,7 +70,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 339,
         "include_baseline_error": false,
         "n": 340,
@@ -79,10 +79,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.37069467911301024
+        "value": 0.37275693224249995
     },
     "Ar40": {
-        "error": 0.026173925245592918,
+        "error": 0.02617392524559283,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -102,6 +102,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 4.609904967576911
+        "value": 4.609904967576913
     }
 }
